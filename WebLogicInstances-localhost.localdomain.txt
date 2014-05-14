@@ -1,0 +1,1 @@
+jboss_5.1.0.GA_defa|localhost.localdomain|ES|default|192.168.56.103|8080|null|[jmx-console.war, jbossws-management.war, ROOT.war, invoker.war, web-console.war, sample.war]|1|null|10|518979584|518979584|null|-|null|jboss_5.1.0.GA_defalocalhost.localdomainESdefault

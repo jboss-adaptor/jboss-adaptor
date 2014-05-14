@@ -1,0 +1,1 @@
+jboss5.1.0.GA_defa|localhost.localdomain|ES|defa|5.1.0.GA|\root\jboss-5.1.0.GA\server\default|localhost.localdomain|8080|usagest|1|0|null|null|0|0||120|JBOSS|jboss5.1.0.GA_defalocalhost.localdomainESlocalhost.localdomain
